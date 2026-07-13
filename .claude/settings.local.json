@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/Users/sergio/Desktop/Spec - Driven/.claude/skills/brainstorming\")",
+      "Bash(mkdir -p \"/Users/sergio/Desktop/Spec - Driven/.claude/skills/verify-after-changes\")",
+      "Bash(mkdir -p \"/Users/sergio/Desktop/Spec - Driven/.claude/skills/design-plan\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3)",
+      "Bash(lsof -ti:8811)",
+      "Bash(xargs kill -9)",
+      "Bash(gh --version)",
+      "Bash(gh auth *)",
+      "Bash(git --version)",
+      "Bash(git config *)",
+      "Bash(sw_vers)",
+      "Bash(curl -s https://api.github.com/repos/cli/cli/releases/latest)",
+      "Bash(/private/tmp/claude-501/-Users-sergio-Desktop-Spec---Driven/47eca3b0-892f-43a8-9054-e12334c50540/scratchpad/gh-cli/gh_2.96.0_macOS_arm64/bin/gh --version)",
+      "Bash(/private/tmp/claude-501/-Users-sergio-Desktop-Spec---Driven/47eca3b0-892f-43a8-9054-e12334c50540/scratchpad/gh-cli/gh_2.96.0_macOS_arm64/bin/gh auth *)",
+      "Bash(git init *)",
+      "Bash(printf '.DS_Store\\\\n')",
+      "Bash(git add *)"
+    ]
+  }
+}
